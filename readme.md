@@ -16,3 +16,6 @@ Script to copy selected file/files from a any number of catalogs given in the li
 
 #cluster_run_jobs.py
 Script to run scripts in computational claster in CAMK PAN.
+
+#cookie_clicker.py
+Mini bot for playing cookies. Uses selenium.
