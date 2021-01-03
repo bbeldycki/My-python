@@ -1,4 +1,4 @@
-The scripts below can be easily improved to work in more sofisticated situations.
+The scripts below can be easily improved to work in more sophisticated situations.
 
 #catalogs.py
 Script to create a number of catalogs with the names from the given list.
@@ -15,7 +15,7 @@ Names of files must be put directly in the script.
 Script to copy selected file/files from a any number of catalogs given in the list or list of lists.
 
 #cluster_run_jobs.py
-Script to run scripts in computational claster in CAMK PAN.
+Script to run scripts in computational cluster in CAMK PAN.
 
 #cookie_clicker.py
-Mini bot for playing cookies. Uses selenium.
+Mini bot for cookie clicker game. Uses selenium.
